@@ -6,7 +6,7 @@
     <description><![CDATA[Know Parenting is the gentle audio guide for tired, loving parents of children aged 0–8. Host Ruby An — alongside her husband Noah (a history lover) and child psychologist Dr. Psyche — turns child-development science into 3-minute calming episodes you can use tonight. From sleep and the growing brain to sensory storms and wired-differently kids, every episode pairs a true story from history with warm, judgment-free guidance. No guilt. No racing the milestone clock.]]></description>
     <language>en-us</language>
     <copyright>© 2026 Know Parenting</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 15:39:24 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:00:00 +0000</lastBuildDate>
     <itunes:author>Ruby An</itunes:author>
     <itunes:email>lifelove.positive@gmail.com</itunes:email>
     <itunes:image href="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/assets/cover.jpg"/>
@@ -21,141 +21,9 @@
     <item>
       <title>Episode 001: The Brain That Grows While They Sleep</title>
       <description><![CDATA[While your toddler sleeps, their brain is busy building itself. In this debut episode of Know Parenting, Ruby An, Noah, and child psychologist Dr. Psyche explore the 1953 Chicago discovery of REM sleep and what it means for your child's memory, mood, and development. A calming, science-backed wind-down for tired parents.]]></description>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP001_podcast.mp3" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">ep001</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 002: The Sensitive Window</title>
-      <description><![CDATA[Is your child 'missing the window' for reading or music? In Episode 002, we meet Emily and her block-stacking son Julian, then travel to 1907 Rome to witness Maria Montessori observe a child's 'sensitive period' for the first time. Learn why learning isn't a race — and how your child's mind has its own rhythm.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP002_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep002</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 003: The Copycat Neuron</title>
-      <description><![CDATA[Why does your child imitate everything you do — the good and the difficult? In Episode 003, Ruby An and Dr. Psyche explore mirror neurons: the brain's built-in wiring to copy you. Understanding this connection lets you teach peace without saying a word. A calming, judgment-free guide.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP003_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep003</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 004: The Sacred Space of Play</title>
-      <description><![CDATA[Do you feel guilty for 'just letting them play'? Episode 004 lifts that weight. Ruby An and Noah revisit a rainy-spring-afternoon truth: unstructured play is not lost time — it is your child's mind at work. Release the pressure to monetize every moment.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP004_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep004</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 005: The Rhythm of Peace</title>
-      <description><![CDATA[Frantic mornings, bedtime battles, meltdowns when plans change. Episode 005 explores the quiet power of predictability — how a simple rhythm becomes a sanctuary for your child's growing mind, and for you. Structure as love, not control.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP005_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep005</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 006: The Emotional Bridge</title>
-      <description><![CDATA[You love them completely, yet something feels disconnected. Episode 006 explores emotional attunement — learning your child's emotional language and building a bridge of safety and trust that lasts a lifetime. Connect before you correct.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP006_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep006</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 007: The Screen as Bridge</title>
-      <description><![CDATA[Screens don't have to isolate. Episode 007 tells the story behind educational television and how a screen becomes a bridge to language and connection when children talk back, sing along, and share it with you. You are the anchor in their digital world.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP007_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep007</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 008: The Sleep Factory</title>
-      <description><![CDATA[The nightly struggle for sleep — pleading for one more story, secret flashlight reading, exhausted mornings. Episode 008, 'The Sleep Factory,' helps you transform your evening routine into a sanctuary of rest and biological recovery. A gentle, sustainable wind-down.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP008_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep008</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 009: The Language Bridge</title>
-      <description><![CDATA[Language isn't a race or a checklist — it's a bridge. Episode 009 travels to 1887 Tuscumbia, Alabama, to the story of a child finding words against all odds, and shows how one interactive moment at a time builds your child's growing mind. You are their first teacher.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP009_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep009</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 010: The Temperament Compass</title>
-      <description><![CDATA[Your child isn't broken — they're wired a specific way. Episode 010 introduces the Temperament Compass: your child's behavioral style as a unique, hardwired map. Your role isn't to rebuild the compass, but to learn to navigate with it. No two compasses point the same direction.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP010_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep010</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 011: The Wired Differently (Part 1)</title>
-      <description><![CDATA[Some children experience the world at full volume. Episode 011 begins our neurodivergence series: spotting the difference between a tantrum and a sensory meltdown.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP011_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep011</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 012: The Sensory Storm: When the World Is Too Loud</title>
-      <description><![CDATA[Some children aren't throwing tantrums — their nervous system is drowning in sound, light, and touch. Episode 012 tells the true story of Eustacia Cutler and Temple Grandin, unpacks the science of the amygdala, and shares the Portable Sensory Toolkit. A calming guide for parents of neurodivergent kids.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP012_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep012</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 013: The Language of the Body</title>
-      <description><![CDATA[Why fidgeting helps some minds focus. Episode 013 explores movement, stimming, and how the body regulates a busy brain.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP013_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep013</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 014: The Predictable Day</title>
-      <description><![CDATA[Routine is a love language for neurodivergent kids. Episode 014 builds a gentle visual schedule that reduces anxiety before it starts.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP014_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep014</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 015: The Deep Pressure Calm</title>
-      <description><![CDATA[Hugs that help, hugs that hurt. Episode 015 explores deep-pressure needs and safe ways to meet them.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP015_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep015</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 016: The Social Map</title>
-      <description><![CDATA[Reading faces, taking turns, finding friends. Episode 016 offers a gentle path through social skill growth.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP016_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep016</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 017: The Special Interest Spark</title>
-      <description><![CDATA[Trains, stars, dinosaurs — why intense interests are a strength, not a problem. Episode 017 celebrates the spark.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP017_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep017</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 018: The School Transition</title>
-      <description><![CDATA[Starting school without losing the spark. Episode 018 prepares neurodivergent kids (and parents) for the big step.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP018_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep018</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 019: The Advocacy Voice</title>
-      <description><![CDATA[You are your child's translator to the world. Episode 019 builds confident, kind advocacy for meetings and classrooms.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP019_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep019</guid>
-      <itunes:duration>0:03:00</itunes:duration>
-    </item>
-    <item>
-      <title>Episode 020: The Growing Up Wired</title>
-      <description><![CDATA[What wiring-differently looks like across the years. Episode 020 closes the series with hope, not fear.]]></description>
-      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/EP020_podcast.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">ep020</guid>
       <itunes:duration>0:03:00</itunes:duration>
     </item>
   </channel>
