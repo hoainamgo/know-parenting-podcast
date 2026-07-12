@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Know Parenting — Course 02</title>
-    <link>https://knowparenting.blogspot.com</link>
+    <link>https://knowparenting-course02.blogspot.com</link>
     <description><![CDATA[Know Parenting is the gentle audio guide for tired, loving parents of children aged 0–8. Host Ruby An — alongside her husband Noah (a history lover) and child psychologist Dr. Psyche — turns child-development science into 3-minute calming episodes. Course 02. No guilt. No racing the milestone clock.]]></description>
     <language>en-us</language>
     <copyright>© 2026 Know Parenting</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 16:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:29:15 +0000</lastBuildDate>
     <itunes:author>Ruby An</itunes:author>
     <itunes:email>lifelove.positive@gmail.com</itunes:email>
-    <itunes:image href="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/assets/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/assets/cover_c02.jpg"/>
     <itunes:owner>
       <itunes:name>Ruby An</itunes:name>
       <itunes:email>lifelove.positive@gmail.com</itunes:email>
@@ -19,7 +19,7 @@
     <item>
       <title>Episode 001: The Wired Differently (Part 1)</title>
       <description><![CDATA[Some children experience the world at full volume. Episode 011 begins our neurodivergence series: spotting the difference between a tantrum and a sensory meltdown.]]></description>
-      <pubDate>Sat, 11 Jul 2026 16:56:16 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:29:15 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c02/EP001_podcast.mp3" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">Course_02-ep001</guid>
       <itunes:duration>0:03:00</itunes:duration>
