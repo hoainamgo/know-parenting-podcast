@@ -6,10 +6,10 @@
     <description><![CDATA[Know Parenting is the gentle audio guide for tired, loving parents of children aged 0–8. Host Ruby An — alongside her husband Noah (a history lover) and child psychologist Dr. Psyche — turns child-development science into 3-minute calming episodes. Course 01. No guilt. No racing the milestone clock.]]></description>
     <language>en-us</language>
     <copyright>© 2026 Know Parenting</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 16:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:32:09 +0000</lastBuildDate>
     <itunes:author>Ruby An</itunes:author>
     <itunes:email>lifelove.positive@gmail.com</itunes:email>
-    <itunes:image href="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/assets/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/assets/cover_c01.jpg"/>
     <itunes:owner>
       <itunes:name>Ruby An</itunes:name>
       <itunes:email>lifelove.positive@gmail.com</itunes:email>
@@ -19,7 +19,7 @@
     <item>
       <title>Episode 001: The Brain That Grows While They Sleep</title>
       <description><![CDATA[While your toddler sleeps, their brain is busy building itself. In this debut episode of Know Parenting, Ruby An, Noah, and child psychologist Dr. Psyche explore the 1953 Chicago discovery of REM sleep and what it means for your child's memory, mood, and development. A calming, science-backed wind-down for tired parents.]]></description>
-      <pubDate>Sat, 11 Jul 2026 16:56:07 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:32:09 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c01/EP001_podcast.mp3" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">Course_01-ep001</guid>
       <itunes:duration>0:03:00</itunes:duration>
