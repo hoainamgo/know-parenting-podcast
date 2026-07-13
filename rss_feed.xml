@@ -24,5 +24,13 @@
       <guid isPermaLink="false">Course_01-ep001</guid>
       <itunes:duration>0:03:00</itunes:duration>
     </item>
+    <item>
+      <title>Episode 002: The Sensitive Window</title>
+      <description><![CDATA[Is your child 'missing the window' for reading or music? In Episode 002, we meet Emily and her block-stacking son Julian, then travel to 1907 Rome to witness Maria Montessori observe a child's 'sensitive period' for the first time. Learn why learning isn't a race — and how your child's mind has its own rhythm.]]></description>
+      <pubDate>Mon, 13 Jul 2026 09:00:57 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c01/EP002_podcast.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">Course_01-ep002</guid>
+      <itunes:duration>0:03:00</itunes:duration>
+    </item>
   </channel>
 </rss>
