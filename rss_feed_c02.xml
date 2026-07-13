@@ -24,5 +24,13 @@
       <guid isPermaLink="false">Course_02-ep001</guid>
       <itunes:duration>0:03:00</itunes:duration>
     </item>
+    <item>
+      <title>Episode 002: The Sensory Storm: When the World Is Too Loud</title>
+      <description><![CDATA[Some children aren't throwing tantrums — their nervous system is drowning in sound, light, and touch. Episode 012 tells the true story of Eustacia Cutler and Temple Grandin, unpacks the science of the amygdala, and shares the Portable Sensory Toolkit. A calming guide for parents of neurodivergent kids.]]></description>
+      <pubDate>Mon, 13 Jul 2026 09:01:59 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c02/EP002_podcast.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">Course_02-ep002</guid>
+      <itunes:duration>0:03:00</itunes:duration>
+    </item>
   </channel>
 </rss>
