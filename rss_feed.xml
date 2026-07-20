@@ -32,5 +32,13 @@
       <guid isPermaLink="false">Course_01-ep002</guid>
       <itunes:duration>0:03:00</itunes:duration>
     </item>
+    <item>
+      <title>Episode 003: The Copycat Neuron</title>
+      <description><![CDATA[Why does your child imitate everything you do? In Episode 003, Ruby An and Dr. Psyche explore mirror neurons: the brain's built-in wiring to copy you. Understanding this connection lets you teach peace without saying a word. A calming, judgment-free guide.]]></description>
+      <pubDate>Mon, 20 Jul 2026 09:01:36 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c01/EP003_podcast.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">Course_01-ep003</guid>
+      <itunes:duration>0:03:00</itunes:duration>
+    </item>
   </channel>
 </rss>
