@@ -32,5 +32,13 @@
       <guid isPermaLink="false">Course_02-ep002</guid>
       <itunes:duration>0:03:00</itunes:duration>
     </item>
+    <item>
+      <title>Episode 003: The Language of the Body</title>
+      <description><![CDATA[Why fidgeting helps some minds focus. Episode 013 explores movement, stimming, and how the body regulates a busy brain.]]></description>
+      <pubDate>Mon, 20 Jul 2026 09:01:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/know-parenting-podcast/main/audio/c02/EP003_podcast.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">Course_02-ep003</guid>
+      <itunes:duration>0:03:00</itunes:duration>
+    </item>
   </channel>
 </rss>
